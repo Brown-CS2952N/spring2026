@@ -13,7 +13,6 @@ description: Course policies and information.
 
 - Tuesday, Thursday 1:00-2:20 PM Eastern Time
 - Instructor: [Chen Sun](https://chensun.me) ([chen_sun4@brown.edu](mailto:chensun@brown.edu))
-- Graduate TA: [Calvin Luo](https://calvinyluo.com/) ([calvin_luo@brown.edu](mailto:calvin_luo@brown.edu))
 - Office hour: 3:30 to 5:00 PM Tuesday, or by appointment
 - Classroom: CIT 477 (Lubrano)
 
