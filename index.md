@@ -25,10 +25,10 @@ _Lectures will be recorded for asynchronous viewing._
 
 ## Resources
 
-- [Course syllabus](https://docs.google.com/document/d/1MTB64IsXM_euPPTux2_o-ZOLuZl-JamaU3D1KJJRGbI/edit?usp=sharing)
-- [Ed](https://edstem.org/us/courses/74724/discussion)
+- [Course syllabus](https://docs.google.com/document/d/1w2Hm4ij4yn6r8QI12SyJLf8hbiQAP7IZmvfJWJLDVuM/edit?usp=sharing)
+- [Ed](https://edstem.org/us/courses/91652/discussion)
 - [Presentation signup sheet]()
-- [Anonymous feedback form](https://forms.gle/2uQL85QrYG7M26Sy8)
+- [Anonymous feedback form](https://forms.gle/hE3qLeALP4RKf6CF6)
 
 
 ## About
