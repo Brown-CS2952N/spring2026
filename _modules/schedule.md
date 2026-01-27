@@ -4,7 +4,7 @@ title: Paper reading list and presenters
 
 
 Jan 27, Tue
-: [Course Overview]() ([Slides]())
+: [Course Overview]() ([Slides](https://drive.google.com/file/d/1pEA_rIFWRSrxPCDf-KvhbBHY7i8onFn0/view?usp=sharing))
   : Chen
 : 1. [How to Read a CS Research Paper](http://www2.cs.uregina.ca/~pwlfong/CS499/reading-paper.pdf) by Philip Fong
   1. [How to do research](http://people.csail.mit.edu/billf/publications/How_To_Do_Research.pdf) by Bill Freeman
@@ -14,7 +14,7 @@ Jan 27, Tue
 
 
 Jan 29, Thu
-: [Deep Learning Recap](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b7e4eb3e-8d5a-4e1d-96dd-b266011758e6) ([Slides](https://drive.google.com/file/d/101gFZOpujUeHwLPkvCNyd96UJri6hDom/view?usp=sharing))
+: [Deep Learning Recap]() ([Slides]())
   : Chen
 
 
