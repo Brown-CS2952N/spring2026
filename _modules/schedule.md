@@ -14,7 +14,7 @@ Jan 27, Tue
 
 
 Jan 29, Thu
-: [Deep Learning Recap]() ([Slides](https://drive.google.com/file/d/1OzayCctBdQrUa4MxjE7PS245D-HKATgb/view?usp=sharing))
+: [Deep Learning Recap](https://drive.google.com/file/d/13g6Co64vNhVBLWtm439TiIPn5PNPDSFc/view?usp=drive_link) ([Slides](https://drive.google.com/file/d/1OzayCctBdQrUa4MxjE7PS245D-HKATgb/view?usp=sharing))
   : Chen
 
 
