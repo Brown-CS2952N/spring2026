@@ -3,7 +3,7 @@ title: Paper reading list and presenters
 ---
 
 
-Jan 27, Tue
+Jan. 27, Tue
 : [Course Overview](https://drive.google.com/file/d/1KS_QYPH_Kvs79HXyfD7OsCpEu7LrZJmL/view?usp=sharing) ([Slides](https://drive.google.com/file/d/1pEA_rIFWRSrxPCDf-KvhbBHY7i8onFn0/view?usp=sharing))
   : Chen
 : 1. [How to Read a CS Research Paper](http://www2.cs.uregina.ca/~pwlfong/CS499/reading-paper.pdf) by Philip Fong
@@ -13,13 +13,13 @@ Jan 27, Tue
   1. [How to speak (video)](https://www.youtube.com/watch?v=Unzc731iCUY) by Patrick Winston
 
 
-Jan 29, Thu
+Jan. 29, Thu
 : [Deep Learning Recap](https://drive.google.com/file/d/13g6Co64vNhVBLWtm439TiIPn5PNPDSFc/view?usp=drive_link) ([Slides](https://drive.google.com/file/d/1OzayCctBdQrUa4MxjE7PS245D-HKATgb/view?usp=sharing))
   : Chen
 
 
-Feb. 2, Mon
-: **Due**{: .label .label-purple} [Presentation signup sheet]()
+Feb. 5, Thu
+: **Due**{: .label .label-purple} [Presentation signup sheet](https://forms.gle/9tq99EoMaUvsvuzG6)
 
 
 May 8, Fri
