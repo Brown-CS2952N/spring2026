@@ -18,6 +18,11 @@ Jan. 29, Thu
   : Chen
 
 
+Feb. 3, Tue
+: [The Unreasonable Effectiveness of Data]() ([Slides](The Unreasonable Effectiveness of Data))
+  : Chen
+
+
 Feb. 5, Thu
 : **Due**{: .label .label-purple} [Presentation signup sheet](https://forms.gle/9tq99EoMaUvsvuzG6)
 
