@@ -19,7 +19,7 @@ Jan. 29, Thu
 
 
 Feb. 3, Tue
-: [The Unreasonable Effectiveness of Data]() ([Slides](https://drive.google.com/file/d/1rFL2zKlaDYomGuT5dCvohhlbgWPHBTCS/view?usp=drive_link))
+: [The Unreasonable Effectiveness of Data](https://drive.google.com/file/d/1GgVuiiKS0xUuiSe0W1heSg_1KXvJtyoy/view?usp=drive_link) ([Slides](https://drive.google.com/file/d/1rFL2zKlaDYomGuT5dCvohhlbgWPHBTCS/view?usp=drive_link))
   : Chen
 
 
