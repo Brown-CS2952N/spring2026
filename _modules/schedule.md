@@ -24,6 +24,11 @@ Feb. 3, Tue
 
 
 Feb. 5, Thu
+: [Visual Concepts]() ([Slides](https://drive.google.com/file/d/1vQ635PXDNMTFeynN_SUJlVe29ORkcYzi/view?usp=sharing))
+  : Chen
+
+
+Feb. 5, Thu
 : **Due**{: .label .label-purple} [Presentation signup sheet](https://forms.gle/9tq99EoMaUvsvuzG6)
 
 
