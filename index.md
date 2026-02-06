@@ -27,7 +27,7 @@ _Lectures will be recorded for asynchronous viewing._
 
 - [Course syllabus](https://docs.google.com/document/d/1w2Hm4ij4yn6r8QI12SyJLf8hbiQAP7IZmvfJWJLDVuM/edit?usp=sharing)
 - [Ed](https://edstem.org/us/courses/91652/discussion)
-- [Presentation signup sheet]()
+- [Presentation signup sheet](https://forms.gle/bXkWaFHbZs3qRVsz8)
 - [Anonymous feedback form](https://forms.gle/hE3qLeALP4RKf6CF6)
 
 
@@ -57,7 +57,7 @@ Students who complete this course will:
 ## Grading
 
 - 40% Final project
-- 20% Mini projects
+- 20% Mini project
 - 20% In-class presentation
 - 20% Paper reading and participation
 
