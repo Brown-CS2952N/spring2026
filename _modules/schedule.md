@@ -24,7 +24,7 @@ Feb. 3, Tue
 
 
 Feb. 5, Thu
-: [Visual Concepts]() ([Slides](https://drive.google.com/file/d/1vQ635PXDNMTFeynN_SUJlVe29ORkcYzi/view?usp=sharing))
+: [Visual Concepts](https://drive.google.com/file/d/1PSJ4wliOOJmIm4VKFA_AnC65Pb2OUes0/view?usp=drive_link) ([Slides](https://drive.google.com/file/d/1vQ635PXDNMTFeynN_SUJlVe29ORkcYzi/view?usp=sharing))
   : Chen
 
 
