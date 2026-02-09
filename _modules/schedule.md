@@ -32,6 +32,16 @@ Feb. 5, Thu
 : **Due**{: .label .label-purple} [Presentation signup sheet](https://forms.gle/9tq99EoMaUvsvuzG6)
 
 
+Feb. 10, Tue
+: [Overview of Multimodal LLMs]() ([Slides](https://docs.google.com/presentation/d/1RDvXn5oTAoo1WRrLAq5iGGjjZKs_2ZLJRyKbyCVaA8A/edit?usp=sharing))
+  : Zitian Tang
+
+
+Feb. 12, Thu
+: [Generative AI for Robot Learning]() ([Slides](https://docs.google.com/presentation/d/1cgdb2nAtBy7ZiyTFo47UirBmKLwq6JcP1kOgpKxLH2E/edit?usp=sharing))
+  : Zilai Zeng
+
+
 Feb. 26, Thu
 : **INVITED**{: .label .label-green} [Learning World Models and Agents for High-Cost Environments]()
   : Prof. Sherry Yang
