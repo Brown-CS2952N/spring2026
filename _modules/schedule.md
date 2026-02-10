@@ -33,7 +33,7 @@ Feb. 5, Thu
 
 
 Feb. 10, Tue
-: [Overview of Multimodal LLMs]() ([Slides](https://docs.google.com/presentation/d/1RDvXn5oTAoo1WRrLAq5iGGjjZKs_2ZLJRyKbyCVaA8A/edit?usp=sharing))
+: [Overview of Multimodal LLMs](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=431c8cf1-99c7-4a98-97c5-b3d300e4727e) ([Slides](https://docs.google.com/presentation/d/1RDvXn5oTAoo1WRrLAq5iGGjjZKs_2ZLJRyKbyCVaA8A/edit?usp=sharing))
   : Zitian Tang
 
 
