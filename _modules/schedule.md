@@ -33,13 +33,30 @@ Feb. 5, Thu
 
 
 Feb. 10, Tue
-: [Overview of Multimodal LLMs](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=431c8cf1-99c7-4a98-97c5-b3d300e4727e) ([Slides](https://docs.google.com/presentation/d/1RDvXn5oTAoo1WRrLAq5iGGjjZKs_2ZLJRyKbyCVaA8A/edit?usp=sharing))
+: [Overview of Multimodal LLMs](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=431c8cf1-99c7-4a98-97c5-b3d300e4727e) ([Slides](https://docs.google.com/presentation/d/1xqkGOvWY71sH9_ia80OU1AiS2QHKxRR_tMaHHsAbviU/edit?usp=sharing))
   : Zitian Tang
 
 
 Feb. 12, Thu
-: [Generative AI for Robot Learning]() ([Slides](https://docs.google.com/presentation/d/1cgdb2nAtBy7ZiyTFo47UirBmKLwq6JcP1kOgpKxLH2E/edit?usp=sharing))
+: [Generative AI for Robot Learning](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=831d234a-45f0-473c-91ca-b3d300e47298) ([Slides](https://docs.google.com/presentation/d/1g7YC4sMu_g-j70NxjoJGKIlnic2RbprXCbRRUxt7800/edit?usp=sharing))
   : Zilai Zeng
+
+
+Feb. 19, Thu
+: [Flow Matching and Normalizing Flows]() ([Slides]())
+  : Calvin Luo
+
+
+Feb. 19, Thu
+: **MP**{: .label .label-purple} [Mini Project](https://docs.google.com/document/d/1ChgUIus-rvrLhBZX57B9u488PubCJyRewASdw6lmte4/edit?usp=sharing)
+  : Due on March 12
+: 1. [Mini Project Handout](https://docs.google.com/document/d/1ChgUIus-rvrLhBZX57B9u488PubCJyRewASdw6lmte4/edit?usp=sharing)
+  1. [Submission Form](https://forms.gle/hmqXhJEZbnPoHiwR6)
+
+
+Feb. 24, Tue
+: [Teaching Video Models to Understand Physics Control]() ([Slides]())
+  : Nate Gillman
 
 
 Feb. 26, Thu
