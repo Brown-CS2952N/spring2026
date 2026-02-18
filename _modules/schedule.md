@@ -44,7 +44,7 @@ Feb. 12, Thu
 
 Feb. 19, Thu
 : [Flow Matching and Normalizing Flows]() ([Slides]())
-  : Calvin Luo
+  : Dr. Calvin Luo
 
 
 Feb. 19, Thu
