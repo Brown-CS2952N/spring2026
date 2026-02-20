@@ -43,7 +43,7 @@ Feb. 12, Thu
 
 
 Feb. 19, Thu
-: [Flow Matching and Normalizing Flows]() ([Slides]())
+: [Flow Matching and Normalizing Flows](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cdcb50b0-703c-401e-98ee-b3d300e472c9) ([Slides](https://drive.google.com/file/d/1NssRdYB7lXmj4uZRMOWouhCfasGrdBew/view?usp=drive_link))
   : Dr. Calvin Luo
 
 
