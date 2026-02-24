@@ -55,7 +55,7 @@ Feb. 19, Thu
 
 
 Feb. 24, Tue
-: [Teaching Video Models to Understand Physics Control]() ([Slides]())
+: [Teaching Video Models to Understand Physics Control]() ([Slides](https://drive.google.com/file/d/1rKYgyHnt4H_WNEzKPPgLpaVypNCXFB9r/view?usp=drive_link))
   : Nate Gillman
 
 
