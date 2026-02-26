@@ -64,6 +64,12 @@ Feb. 26, Thu
   : Andrew, Daniel, Taj, and Woody
 
 
+Feb. 26, Thu
+: **FINAL**{: .label .label-purple} Final Project Proposal
+  : Due on March 10
+: 1. [Submission Form](https://forms.gle/FRMUXHBUUModd3679)
+
+
 TBD
 : **INVITED**{: .label .label-green} [Learning World Models and Agents for High-Cost Environments]()
   : Prof. Sherry Yang
