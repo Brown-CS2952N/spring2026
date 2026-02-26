@@ -60,7 +60,7 @@ Feb. 24, Tue
 
 
 Feb. 26, Thu
-: [“Emergent” Abilities in Large Pre-trained Models]() ([Slides](https://docs.google.com/presentation/d/1DH1w4HrDofLud2SJZFnGywmY7QEAVZyLZ0AilYJpouI/edit?usp=sharing))
+: [“Emergent” Abilities in Large Pre-trained Models](https://drive.google.com/file/d/1yybfDayNshE48ffFD2-msZCNbBwLInRH/view?usp=drive_link) ([Slides](https://docs.google.com/presentation/d/1WNhomaub-27lBlviPAbTGqsf0dfIHeyK-nvbuWzeAh4/edit?usp=sharing))
   : Andrew, Daniel, Taj, and Woody
 
 
