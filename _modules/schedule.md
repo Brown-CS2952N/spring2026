@@ -60,6 +60,11 @@ Feb. 24, Tue
 
 
 Feb. 26, Thu
+: [“Emergent” Abilities in Large Pre-trained Models]() ([Slides](https://docs.google.com/presentation/d/1DH1w4HrDofLud2SJZFnGywmY7QEAVZyLZ0AilYJpouI/edit?usp=sharing))
+  : Andrew, Daniel, Taj, and Woody
+
+
+TBD
 : **INVITED**{: .label .label-green} [Learning World Models and Agents for High-Cost Environments]()
   : Prof. Sherry Yang
 
