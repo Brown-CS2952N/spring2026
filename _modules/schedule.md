@@ -62,12 +62,30 @@ Feb. 24, Tue
 Feb. 26, Thu
 : [“Emergent” Abilities in Large Pre-trained Models](https://drive.google.com/file/d/1yybfDayNshE48ffFD2-msZCNbBwLInRH/view?usp=drive_link) ([Slides](https://docs.google.com/presentation/d/1WNhomaub-27lBlviPAbTGqsf0dfIHeyK-nvbuWzeAh4/edit?usp=sharing))
   : Andrew, Daniel, Taj, and Woody
+: 1. [Emergent Abilities of Large Language Models](https://arxiv.org/abs/2206.07682)
+  1. [Are Emergent Abilities of Large Language Models a Mirage?](https://arxiv.org/abs/2304.15004)
 
 
 Feb. 26, Thu
 : **FINAL**{: .label .label-purple} Final Project Proposal
   : Due on March 10
 : 1. [Submission Form](https://forms.gle/FRMUXHBUUModd3679)
+
+
+Mar. 3, Tue
+: [Few-shot and In-context Learning]() ([Slides]())
+  : Athulith, Benjamin, Kenneth, Vanessa, and Zheyu
+: 1. [Reading Survey]()
+  1. [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
+  1. [Function Vectors in Large Language Models](https://arxiv.org/abs/2310.15213)
+
+
+Mar. 5, Thu
+: [The World After Transformers (1)]() ([Slides]())
+  : Armaan, Asher, Chaitanya, Jiayi, and Manan
+: 1. [Reading Survey]()
+  1. [Vision Transformers Need Registers](https://arxiv.org/abs/2309.16588)
+  1. [Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/abs/2111.00396)
 
 
 TBD
