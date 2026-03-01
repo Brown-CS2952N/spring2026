@@ -75,7 +75,7 @@ Feb. 26, Thu
 Mar. 3, Tue
 : [Few-shot and In-context Learning]() ([Slides]())
   : Athulith, Benjamin, Kenneth, Vanessa, and Zheyu
-: 1. [Reading Survey]()
+: 1. [Reading Survey](https://forms.gle/QvLKf1S2MopQGMhf8)
   1. [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
   1. [Function Vectors in Large Language Models](https://arxiv.org/abs/2310.15213)
 
