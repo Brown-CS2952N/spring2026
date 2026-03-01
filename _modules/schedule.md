@@ -83,7 +83,7 @@ Mar. 3, Tue
 Mar. 5, Thu
 : [The World After Transformers (1)]() ([Slides]())
   : Armaan, Asher, Chaitanya, Jiayi, and Manan
-: 1. [Reading Survey]()
+: 1. [Reading Survey](https://forms.gle/49vVq3r2X9yVTaucA)
   1. [Vision Transformers Need Registers](https://arxiv.org/abs/2309.16588)
   1. [Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/abs/2111.00396)
 
