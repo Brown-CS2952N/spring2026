@@ -73,7 +73,7 @@ Feb. 26, Thu
 
 
 Mar. 3, Tue
-: [Few-shot and In-context Learning]() ([Slides](https://docs.google.com/presentation/d/18yMubyyZd6ujq2Mmtr0wJDCuZ-xuhTc6km2zz6JhqT4/edit?usp=sharing))
+: [Few-shot and In-context Learning](https://drive.google.com/file/d/14J-HjFasgEA8qepQ6SNRKGJEU-qLl31u/view?usp=sharing) ([Slides](https://docs.google.com/presentation/d/10zpOKD4rmiQoe4nSvUua50xB4DY04JGfa2Wmo95Irfg/edit?usp=sharing))
   : Athulith, Benjamin, Kenneth, Vanessa, and Zheyu
 : 1. [Reading Survey](https://forms.gle/QvLKf1S2MopQGMhf8)
   1. [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
