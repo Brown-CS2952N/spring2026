@@ -81,7 +81,7 @@ Mar. 3, Tue
 
 
 Mar. 5, Thu
-: [The World After Transformers (1)]() ([Slides]())
+: [The World After Transformers (1)]() ([Slides](https://docs.google.com/presentation/d/1fSvMDJlkonU_KOVf7syStZL4xzzyE1BTlwnVjHk3y1Y/edit?usp=sharing))
   : Armaan, Asher, Chaitanya, Jiayi, and Manan
 : 1. [Reading Survey](https://forms.gle/49vVq3r2X9yVTaucA)
   1. [Vision Transformers Need Registers](https://arxiv.org/abs/2309.16588)
