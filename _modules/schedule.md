@@ -100,7 +100,7 @@ Mar. 12, Thu
 : [Visual Understanding vs. Generation]() ([Slides]())
   : Alexander, Evan, Ruthwik, Om, and Yinghua
 : 1. [Reading Survey]()
-  1. [Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model](https://arxiv.org/abs/2408.11039)
+  1. [Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion](https://arxiv.org/abs/2407.01392)
   1. [Diffusion Transformers with Representation Autoencoders](https://arxiv.org/abs/2510.11690)
 
 
