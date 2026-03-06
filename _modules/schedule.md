@@ -88,6 +88,22 @@ Mar. 5, Thu
   1. [Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/abs/2111.00396)
 
 
+Mar. 10, Tue
+: [Quo Vadis, Computer Vision?]() ([Slides]())
+  : Akash, Benjamin, Faisai, and Lyfey
+: 1. [Reading Survey]()
+  1. [VGGT: Visual Geometry Grounded Transformer](https://arxiv.org/abs/2503.11651)
+  1. [V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning](https://arxiv.org/abs/2506.09985)
+
+
+Mar. 12, Thu
+: [Visual Understanding vs. Generation]() ([Slides]())
+  : Alexander, Evan, Ruthwik, Om, and Yinghua
+: 1. [Reading Survey]()
+  1. [Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model](https://arxiv.org/abs/2408.11039)
+  1. [Diffusion Transformers with Representation Autoencoders](https://arxiv.org/abs/2510.11690)
+
+
 TBD
 : **INVITED**{: .label .label-green} [Learning World Models and Agents for High-Cost Environments]()
   : Prof. Sherry Yang
