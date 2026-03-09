@@ -89,9 +89,9 @@ Mar. 5, Thu
 
 
 Mar. 10, Tue
-: [Quo Vadis, Computer Vision?]() ([Slides]())
+: [Quo Vadis, Computer Vision?]() ([Slides](https://docs.google.com/presentation/d/1VlvT_aUxrysjPmBwcBXcF6Fs6V3dwVEeIww-u5ny8bk/edit?usp=sharing))
   : Akash, Benjamin, Faisai, and Lyfey
-: 1. [Reading Survey]()
+: 1. [Reading Survey](https://forms.gle/vG9Rngu19bpkQGBD7)
   1. [VGGT: Visual Geometry Grounded Transformer](https://arxiv.org/abs/2503.11651)
   1. [V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning](https://arxiv.org/abs/2506.09985)
 
