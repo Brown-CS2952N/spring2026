@@ -99,7 +99,7 @@ Mar. 10, Tue
 Mar. 12, Thu
 : [Visual Understanding vs. Generation]() ([Slides]())
   : Alexander, Evan, Ruthwik, Om, and Yinghua
-: 1. [Reading Survey]()
+: 1. [Reading Survey](https://forms.gle/SpczAJvZyMomNbbC6)
   1. [Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion](https://arxiv.org/abs/2407.01392)
   1. [Diffusion Transformers with Representation Autoencoders](https://arxiv.org/abs/2510.11690)
 
