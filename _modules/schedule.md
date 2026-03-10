@@ -89,7 +89,7 @@ Mar. 5, Thu
 
 
 Mar. 10, Tue
-: [Quo Vadis, Computer Vision?]() ([Slides](https://docs.google.com/presentation/d/1VlvT_aUxrysjPmBwcBXcF6Fs6V3dwVEeIww-u5ny8bk/edit?usp=sharing))
+: [Quo Vadis, Computer Vision?](https://drive.google.com/file/d/1hHUu3QIJQKzSN9h524fahZ8O8KfuV4d0/view?usp=drive_link) ([Slides](https://docs.google.com/presentation/d/1w2GAkD7UL3WX7HVev0qwc7XQvRG_RszM9gchhGe6FAY/edit?usp=sharing))
   : Akash, Benjamin, Faisai, and Lyfey
 : 1. [Reading Survey](https://forms.gle/vG9Rngu19bpkQGBD7)
   1. [VGGT: Visual Geometry Grounded Transformer](https://arxiv.org/abs/2503.11651)
@@ -97,7 +97,7 @@ Mar. 10, Tue
 
 
 Mar. 12, Thu
-: [Visual Understanding vs. Generation]() ([Slides]())
+: [Visual Understanding vs. Generation]() ([Slides](https://docs.google.com/presentation/d/1sdz3EdztROy1vyb1OHX25c144g0qtZnMZTBmKK6tNvw/edit?usp=sharing))
   : Alexander, Evan, Ruthwik, Om, and Yinghua
 : 1. [Reading Survey](https://forms.gle/SpczAJvZyMomNbbC6)
   1. [Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion](https://arxiv.org/abs/2407.01392)
