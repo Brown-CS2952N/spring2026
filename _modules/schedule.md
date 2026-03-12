@@ -97,14 +97,24 @@ Mar. 10, Tue
 
 
 Mar. 12, Thu
-: [Visual Understanding vs. Generation]() ([Slides](https://docs.google.com/presentation/d/1sdz3EdztROy1vyb1OHX25c144g0qtZnMZTBmKK6tNvw/edit?usp=sharing))
+: [Visual Understanding vs. Generation](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d38dd985-874e-4309-9b27-b3d300e47365) ([Slides](https://docs.google.com/presentation/d/1sdz3EdztROy1vyb1OHX25c144g0qtZnMZTBmKK6tNvw/edit?usp=sharing))
   : Alexander, Evan, Ruthwik, Om, and Yinghua
 : 1. [Reading Survey](https://forms.gle/SpczAJvZyMomNbbC6)
   1. [Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion](https://arxiv.org/abs/2407.01392)
   1. [Diffusion Transformers with Representation Autoencoders](https://arxiv.org/abs/2510.11690)
 
 
-TBD
+Mar. 17, Tue
+: [Final Project Idea Pitch (1)]()
+: 1. [Slide deck](https://docs.google.com/presentation/d/1tTHJ9XHlCEPcb4vVsZEjkkPstXg4uwry_V4A4g91Jlk/edit?usp=sharing)
+
+
+Mar. 19, Thu
+: [Final Project Idea Pitch (1)]()
+: 1. [Slide deck](https://docs.google.com/presentation/d/1tTHJ9XHlCEPcb4vVsZEjkkPstXg4uwry_V4A4g91Jlk/edit?usp=sharing)
+
+
+Apr. 3, Fri
 : **INVITED**{: .label .label-green} [Learning World Models and Agents for High-Cost Environments]()
   : Prof. Sherry Yang
 
