@@ -105,12 +105,12 @@ Mar. 12, Thu
 
 
 Mar. 17, Tue
-: [Final Project Idea Pitch (1)]()
+: [Final Project Idea Pitch (1)](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8b55b21c-3067-4665-afdd-b3d300e47383)
 : 1. [Slide deck](https://docs.google.com/presentation/d/1tTHJ9XHlCEPcb4vVsZEjkkPstXg4uwry_V4A4g91Jlk/edit?usp=sharing)
 
 
 Mar. 19, Thu
-: [Final Project Idea Pitch (1)]()
+: [Final Project Idea Pitch (2)](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=125c1301-420f-4d7b-a542-b3d300e4739b)
 : 1. [Slide deck](https://docs.google.com/presentation/d/1tTHJ9XHlCEPcb4vVsZEjkkPstXg4uwry_V4A4g91Jlk/edit?usp=sharing)
 
 
