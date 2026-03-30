@@ -114,6 +114,22 @@ Mar. 19, Thu
 : 1. [Slide deck](https://docs.google.com/presentation/d/1tTHJ9XHlCEPcb4vVsZEjkkPstXg4uwry_V4A4g91Jlk/edit?usp=sharing)
 
 
+Mar. 31, Tue
+: [Video Generation Meets the Laws of Physics]() ([Slides]())
+  : Aashish, Gary, Xiaoyan, Xijie, and Yuqiao
+: 1. [Reading Survey](https://forms.gle/ugyMSFL1VbQcDE717)
+  1. [WonderPlay: Dynamic 3D Scene Generation from a Single Image and Actions](https://arxiv.org/abs/2505.18151)
+  1. [Video models are zero-shot learners and reasoners](https://arxiv.org/abs/2509.20328)
+
+
+Apr. 2, Thu
+: [World Models]() ([Slides]())
+  : Eric, Ethan, Ioanna, Lihao, and Mark
+: 1. [Reading Survey](https://forms.gle/cnTLa6nHsWmcJkft8)
+  1. [Genie: Generative Interactive Environments](https://arxiv.org/abs/2402.15391)
+  1. [Mastering Diverse Domains through World Models](https://arxiv.org/abs/2301.04104)
+
+
 Apr. 3, Fri
 : **INVITED**{: .label .label-green} [Learning World Models and Agents for High-Cost Environments]()
   : Prof. Sherry Yang
