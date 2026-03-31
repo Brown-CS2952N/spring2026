@@ -115,7 +115,7 @@ Mar. 19, Thu
 
 
 Mar. 31, Tue
-: [Video Generation Meets the Laws of Physics]() ([Slides]())
+: [Video Generation Meets the Laws of Physics]() ([Slides](https://docs.google.com/presentation/d/11kc1JGKGazClkYeWIMh_PNtc-OMMptU2E6aZ_yhZoFo/edit?usp=sharing))
   : Aashish, Gary, Xiaoyan, Xijie, and Yuqiao
 : 1. [Reading Survey](https://forms.gle/ugyMSFL1VbQcDE717)
   1. [WonderPlay: Dynamic 3D Scene Generation from a Single Image and Actions](https://arxiv.org/abs/2505.18151)
@@ -133,6 +133,11 @@ Apr. 2, Thu
 Apr. 3, Fri
 : **INVITED**{: .label .label-green} [Learning World Models and Agents for High-Cost Environments]()
   : Prof. Sherry Yang
+
+
+Apr. 9, Thu
+: **INVITED**{: .label .label-green} [Assessing Adaptive World Models in Machines with Novel Games]()
+  : Lance Ying
 
 
 May 8, Fri
