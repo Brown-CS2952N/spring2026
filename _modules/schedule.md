@@ -115,7 +115,7 @@ Mar. 19, Thu
 
 
 Mar. 31, Tue
-: [Video Generation Meets the Laws of Physics]() ([Slides](https://docs.google.com/presentation/d/11kc1JGKGazClkYeWIMh_PNtc-OMMptU2E6aZ_yhZoFo/edit?usp=sharing))
+: [Video Generation Meets the Laws of Physics](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3b54b432-4fe0-4b7f-8f65-b3d300e473e3) ([Slides](https://docs.google.com/presentation/d/1GWibEUnk9Hc49VnMYwO7YKCPk79cfaZ0zFsBYLnNzwo/edit?usp=sharing))
   : Aashish, Gary, Xiaoyan, Xijie, and Yuqiao
 : 1. [Reading Survey](https://forms.gle/ugyMSFL1VbQcDE717)
   1. [WonderPlay: Dynamic 3D Scene Generation from a Single Image and Actions](https://arxiv.org/abs/2505.18151)
