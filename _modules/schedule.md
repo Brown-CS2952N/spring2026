@@ -123,7 +123,7 @@ Mar. 31, Tue
 
 
 Apr. 2, Thu
-: [World Models]() ([Slides]())
+: World Models ([Slides](https://docs.google.com/presentation/d/1qMottWUQ7Fgk6gxHS9R90RGL7r972grxi3oXtmOUinI/edit?usp=sharing))
   : Eric, Ethan, Ioanna, Lihao, and Mark
 : 1. [Reading Survey](https://forms.gle/cnTLa6nHsWmcJkft8)
   1. [Genie: Generative Interactive Environments](https://arxiv.org/abs/2402.15391)
@@ -131,18 +131,18 @@ Apr. 2, Thu
 
 
 Apr. 3, Fri
-: **INVITED**{: .label .label-green} [Learning World Models and Agents for High-Cost Environments]()
+: **INVITED**{: .label .label-green} Learning World Models and Agents for High-Cost Environments
   : Prof. Sherry Yang
 
 
 Apr. 9, Thu
-: **INVITED**{: .label .label-green} [Assessing Adaptive World Models in Machines with Novel Games]()
+: **INVITED**{: .label .label-green} Assessing Adaptive World Models in Machines with Novel Games
   : Lance Ying
 
 
 May 8, Fri
-: [Final project presentations]() (Lubrano 1 to 4 pm) ([Slides]())
+: Final project presentations (Lubrano 1 to 4 pm) (Slides)
 
 
 May 11, Mon
-: **Due**{: .label .label-purple} Project submission ([Form]())
+: **Due**{: .label .label-purple} Project submission (Form)
