@@ -123,7 +123,7 @@ Mar. 31, Tue
 
 
 Apr. 2, Thu
-: World Models ([Slides](https://docs.google.com/presentation/d/1qMottWUQ7Fgk6gxHS9R90RGL7r972grxi3oXtmOUinI/edit?usp=sharing))
+: [World Models](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9894bb86-b0d7-40b9-8c07-b3d300e473fb) ([Slides](https://docs.google.com/presentation/d/1qMottWUQ7Fgk6gxHS9R90RGL7r972grxi3oXtmOUinI/edit?usp=sharing))
   : Eric, Ethan, Ioanna, Lihao, and Mark
 : 1. [Reading Survey](https://forms.gle/cnTLa6nHsWmcJkft8)
   1. [Genie: Generative Interactive Environments](https://arxiv.org/abs/2402.15391)
