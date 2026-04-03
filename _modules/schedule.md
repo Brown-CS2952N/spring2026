@@ -131,8 +131,16 @@ Apr. 2, Thu
 
 
 Apr. 3, Fri
-: **INVITED**{: .label .label-green} Learning World Models and Agents for High-Cost Environments
+: **INVITED**{: .label .label-green} [Learning World Models and Agents for High-Cost Environments](https://drive.google.com/file/d/1DR8O0rLbeo5-0xyZGyb3S-QuPko0v61l/view?usp=sharing)
   : Prof. Sherry Yang
+
+
+Apr. 7, Tue
+: Videos, Language, and Robots (Slides)
+  : Arin, Chandradithya, Enyan, Peiyan, and Peter
+: 1. [Reading Survey](https://forms.gle/S2AVaEtVYqit7D8A9)
+  1. [Learning to Play Minecraft with Video PreTraining (VPT)](https://cdn.openai.com/vpt/Paper.pdf)
+  1. [π∗0.6: a VLA That Learns From Experience](https://arxiv.org/abs/2511.14759)
 
 
 Apr. 9, Thu
