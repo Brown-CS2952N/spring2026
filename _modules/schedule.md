@@ -136,7 +136,7 @@ Apr. 3, Fri
 
 
 Apr. 7, Tue
-: Videos, Language, and Robots ([Slides](https://docs.google.com/presentation/d/1ieVR-AHjFh6rRyBzP_MQMR3hrz8qF92bOgaOU9b7sKA/edit?usp=sharing))
+: [Videos, Language, and Robots](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e14dc6d5-3911-4467-9a33-b3d300e4740e) ([Slides](https://docs.google.com/presentation/d/1vh7o1v4coMqzQRZuNYDLR6qSE2zJvgHtqgFSaK5Mqrc/edit?usp=sharing))
   : Arin, Chandradithya, Enyan, Peiyan, and Peter
 : 1. [Reading Survey](https://forms.gle/S2AVaEtVYqit7D8A9)
   1. [Learning to Play Minecraft with Video PreTraining (VPT)](https://cdn.openai.com/vpt/Paper.pdf)
