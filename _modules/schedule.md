@@ -148,6 +148,11 @@ Apr. 9, Thu
   : Lance Ying
 
 
+Apr. 14, Tue
+: Abstract Reasoning with LLMs (Slides)
+  : Apoorv Khandelwal
+
+
 May 8, Fri
 : Final project presentations (Lubrano 1 to 4 pm) (Slides)
 
