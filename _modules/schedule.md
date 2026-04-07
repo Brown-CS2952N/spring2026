@@ -136,7 +136,7 @@ Apr. 3, Fri
 
 
 Apr. 7, Tue
-: Videos, Language, and Robots (Slides)
+: Videos, Language, and Robots ([Slides](https://docs.google.com/presentation/d/1ieVR-AHjFh6rRyBzP_MQMR3hrz8qF92bOgaOU9b7sKA/edit?usp=sharing))
   : Arin, Chandradithya, Enyan, Peiyan, and Peter
 : 1. [Reading Survey](https://forms.gle/S2AVaEtVYqit7D8A9)
   1. [Learning to Play Minecraft with Video PreTraining (VPT)](https://cdn.openai.com/vpt/Paper.pdf)
