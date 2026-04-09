@@ -153,6 +153,14 @@ Apr. 14, Tue
   : Apoorv Khandelwal
 
 
+Apr. 16, Thu
+: The World After Transformers (2) (Slides)
+  : Akul, Harshit, Heejeong, Ronit, and Shravya
+: 1. [Reading Survey](https://forms.gle/yNn844pG3KLjJKpL7)
+  1. [Test-Time Training with Self-Supervision for Generalization under Distribution Shifts](https://arxiv.org/abs/1909.13231)
+  1. [Nested Learning: The Illusion of Deep Learning Architectures](https://arxiv.org/abs/2512.24695)
+
+
 May 8, Fri
 : Final project presentations (Lubrano 1 to 4 pm) (Slides)
 
