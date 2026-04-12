@@ -144,7 +144,7 @@ Apr. 7, Tue
 
 
 Apr. 9, Thu
-: **INVITED**{: .label .label-green} [Assessing Adaptive World Models in Machines with Novel Games](https://drive.google.com/file/d/12wgjz9pvDBl5mzLuYlF--aywotxFbxjH/view?usp=sharing)
+: **INVITED**{: .label .label-green} [Assessing Adaptive World Models in Machines with Novel Games](https://drive.google.com/file/d/12wgjz9pvDBl5mzLuYlF--aywotxFbxjH/view?usp=sharing) ([Slides](https://docs.google.com/presentation/d/1WebdQ8_aZz9kXlheKQ2MxMqvrDv3gSyd/edit?usp=drive_link&ouid=107174457905760692415&rtpof=true&sd=true))
   : Lance Ying
 
 
