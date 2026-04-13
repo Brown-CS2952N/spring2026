@@ -149,7 +149,7 @@ Apr. 9, Thu
 
 
 Apr. 14, Tue
-: Abstract Reasoning with LLMs (Slides)
+: Abstract Reasoning with LLMs ([Slides](https://docs.google.com/presentation/d/1KX6ae1xt4BP45W3Bq-K0yFcJQCb5fZ0S1u78xb-1Z0g/edit?usp=sharing))
   : Apoorv Khandelwal
 
 
