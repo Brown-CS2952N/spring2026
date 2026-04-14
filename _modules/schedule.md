@@ -149,7 +149,7 @@ Apr. 9, Thu
 
 
 Apr. 14, Tue
-: Abstract Reasoning with LLMs ([Slides](https://docs.google.com/presentation/d/1KX6ae1xt4BP45W3Bq-K0yFcJQCb5fZ0S1u78xb-1Z0g/edit?usp=sharing))
+: [Abstract Reasoning with LLMs](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a1a7d9d6-9251-4aff-87db-b3d300e4743e) ([Slides](https://docs.google.com/presentation/d/1KX6ae1xt4BP45W3Bq-K0yFcJQCb5fZ0S1u78xb-1Z0g/edit?usp=sharing))
   : Apoorv Khandelwal
 
 
