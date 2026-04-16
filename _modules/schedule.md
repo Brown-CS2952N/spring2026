@@ -154,7 +154,7 @@ Apr. 14, Tue
 
 
 Apr. 16, Thu
-: The World After Transformers (2) ([Slides](https://docs.google.com/presentation/d/1cdRBRzlfamWS4ZYXQujjAR_u5xHMWjiC46_-dTX6xHU/edit?usp=sharing))
+: [The World After Transformers (2)](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5f3cd7fa-f5ec-49a1-aafe-b3d300e47457) ([Slides](https://docs.google.com/presentation/d/1cdRBRzlfamWS4ZYXQujjAR_u5xHMWjiC46_-dTX6xHU/edit?usp=sharing))
   : Akul, Harshit, Heejeong, Ronit, and Shravya
 : 1. [Reading Survey](https://forms.gle/yNn844pG3KLjJKpL7)
   1. [Test-Time Training with Self-Supervision for Generalization under Distribution Shifts](https://arxiv.org/abs/1909.13231)
