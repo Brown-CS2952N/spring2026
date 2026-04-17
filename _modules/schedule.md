@@ -161,6 +161,22 @@ Apr. 16, Thu
   1. [Nested Learning: The Illusion of Deep Learning Architectures](https://arxiv.org/abs/2512.24695)
 
 
+Apr. 21, Tue
+: Agents (Slides)
+  : Eric, James, Marcel, Valentina, and Yixin
+: 1. Reading Survey
+  1. [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761)
+  1. [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)
+
+
+Apr. 23, Thu
+: RL for LLMs (Slides)
+  : Anna, Chenxi, Etha, John, and Maryam
+: 1. Reading Survey
+  1. [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290)
+  1. [Demystifying Long Chain-of-Thought Reasoning in LLMs](https://arxiv.org/abs/2502.03373)
+
+
 May 8, Fri
 : Final project presentations (Lubrano 1 to 4 pm) (Slides)
 
