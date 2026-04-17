@@ -164,7 +164,7 @@ Apr. 16, Thu
 Apr. 21, Tue
 : Agents (Slides)
   : Eric, James, Marcel, Valentina, and Yixin
-: 1. Reading Survey
+: 1. [Reading Survey](https://forms.gle/Fxn78w89nS5HxS8i9)
   1. [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761)
   1. [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)
 
@@ -172,14 +172,14 @@ Apr. 21, Tue
 Apr. 23, Thu
 : RL for LLMs (Slides)
   : Anna, Chenxi, Etha, John, and Maryam
-: 1. Reading Survey
+: 1. [Reading Survey](https://forms.gle/BX9LBSVdMYuq118R7)
   1. [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290)
   1. [Demystifying Long Chain-of-Thought Reasoning in LLMs](https://arxiv.org/abs/2502.03373)
 
 
 May 8, Fri
-: Final project presentations (Lubrano 1 to 4 pm) (Slides)
+: Final project presentations (Lubrano 10 to 1 pm) ([Slides](https://docs.google.com/presentation/d/1eQRN6q14une1dBv8hOZ3rd6EQqf0MPlMqE8dwQ_M8M8/edit?usp=sharing))
 
 
 May 11, Mon
-: **Due**{: .label .label-purple} Project submission (Form)
+: **Due**{: .label .label-purple} Project submission ([Form](https://forms.gle/cS9GrjcD6cBgyeR49))
