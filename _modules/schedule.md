@@ -162,7 +162,7 @@ Apr. 16, Thu
 
 
 Apr. 21, Tue
-: Agents (Slides)
+: Agents ([Slides](https://docs.google.com/presentation/d/1Yy9QQRxMLlKOz4a3rpSUXUfXB1KccnzYOeyl3yajRCU/edit?usp=sharing))
   : Eric, James, Marcel, Valentina, and Yixin
 : 1. [Reading Survey](https://forms.gle/Fxn78w89nS5HxS8i9)
   1. [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761)
