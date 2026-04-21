@@ -162,7 +162,7 @@ Apr. 16, Thu
 
 
 Apr. 21, Tue
-: Agents ([Slides](https://docs.google.com/presentation/d/1Yy9QQRxMLlKOz4a3rpSUXUfXB1KccnzYOeyl3yajRCU/edit?usp=sharing))
+: [Agents](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1e5906f8-e219-418f-949c-b3d300e47470) ([Slides](https://docs.google.com/presentation/d/10TxGJ_x4EuLS8iHRUBWEbc-Td_Ojnr6e_uq3iVek3H0/edit?usp=sharing))
   : Eric, James, Marcel, Valentina, and Yixin
 : 1. [Reading Survey](https://forms.gle/Fxn78w89nS5HxS8i9)
   1. [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761)
