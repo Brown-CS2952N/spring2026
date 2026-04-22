@@ -170,7 +170,7 @@ Apr. 21, Tue
 
 
 Apr. 23, Thu
-: RL for LLMs (Slides)
+: RL for LLMs ([Slides](https://docs.google.com/presentation/d/17UuS7ojn57M24p2ADn2mjd1BZcbjcNPZ6beqxY_KYF8/edit?usp=sharing))
   : Anna, Chenxi, Etha, John, and Maryam
 : 1. [Reading Survey](https://forms.gle/BX9LBSVdMYuq118R7)
   1. [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290)
