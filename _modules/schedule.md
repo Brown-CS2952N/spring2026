@@ -171,7 +171,7 @@ Apr. 21, Tue
 
 Apr. 23, Thu
 : [RL for LLMs](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f36ec97d-2abf-4a97-a9ee-b3d300e47488) ([Slides](https://docs.google.com/presentation/d/10WxFnzFU77OVpfBd6rh_4r0pN1LKAsvQ3TZ2YSiOtMA/edit?usp=sharing))
-  : Anna, Chenxi, Etha, John, and Maryam
+  : Anna, Chenxi, Etha, Jack, and Maryam
 : 1. [Reading Survey](https://forms.gle/BX9LBSVdMYuq118R7)
   1. [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290)
   1. [Demystifying Long Chain-of-Thought Reasoning in LLMs](https://arxiv.org/abs/2502.03373)
